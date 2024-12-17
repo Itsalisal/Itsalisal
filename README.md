@@ -1,4 +1,4 @@
-# 🌟 Welcome to *AliVerse*! 🌌  
+# Welcome to *AliVerse*! 🌌  
 
 > _“Coding is not just a skill; it’s my **superpower**!”_
 
@@ -19,7 +19,11 @@ Hey there, I'm **Ali**!
 - 🎓 **Software Engineering Student**, balancing life, work, and dreams 🚀  
 
 Here’s my formula:  
-`Curiosity` + `Coffee ☕` + `Code 💻` = `Awesome Things!`  
+`Curiosity` + `Coffee ☕` + `Code 💻` = `Awesome Things!` 
+
+## 🔗 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-your-profile)  
 
 ---
 
